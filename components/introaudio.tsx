@@ -23,3 +23,5 @@ const IntroAudio = () => {
 };
 
 export default IntroAudio;
+
+// Make it so that when I hover over the button, the icon changes from BsVolumeDownFill to BsVolumeUpFill and vice versa.

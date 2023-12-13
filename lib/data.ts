@@ -106,3 +106,19 @@ export const skillsData = [
   "Matemáticas",
   "Minecraft",
 ] as const;
+
+export const meowData = [
+  {skill: "Mi Novia", image: "https://i.imgur.com/4QZK9ZC.jpg", disc: "Ella es la mejor persona que he conocido y me ha ayudado a crecer como persona."},
+  {skill: "Mi Madre", image: "https://i.imgur.com/4QZK9ZC.jpg"},
+  {skill: "Sonya", image: "https://i.imgur.com/4QZK9ZC.jpg", disc: "Ella es la mejor persona que he conocido y me ha ayudado a crecer como persona."},
+  {skill: "Lana", image: "https://i.imgur.com/4QZK9ZC.jpg", disc: "Ella es la mejor persona que he conocido y me ha ayudado a crecer como persona."},
+  {skill: "Programación", image: "https://i.imgur.com/4QZK9ZC.jpg", disc: "Ella es la mejor persona que he conocido y me ha ayudado a crecer como persona."},
+  {skill: "Gatitos", image: "https://i.imgur.com/4QZK9ZC.jpg", disc: "Ella es la mejor persona que he conocido y me ha ayudado a crecer como persona."},
+  {skill: "Perritos", image: "https://i.imgur.com/4QZK9ZC.jpg", disc: "Ella es la mejor persona que he conocido y me ha ayudado a crecer como persona."},
+  {skill: "Comida", image: "https://i.imgur.com/4QZK9ZC.jpg", disc: "Ella es la mejor persona que he conocido y me ha ayudado a crecer como persona."},
+  {skill: "Musica", image: "https://i.imgur.com/4QZK9ZC.jpg", disc: "Ella es la mejor persona que he conocido y me ha ayudado a crecer como persona."},
+  {skill: "Game of Thrones", image: "https://i.imgur.com/4QZK9ZC.jpg", disc: "Ella es la mejor persona que he conocido y me ha ayudado a crecer como persona."},
+  {skill: "Dormir", image: "https://i.imgur.com/4QZK9ZC.jpg", disc: "Ella es la mejor persona que he conocido y me ha ayudado a crecer como persona."},
+  {skill: "Matemáticas", image: "https://i.imgur.com/4QZK9ZC.jpg", disc: "Ella es la mejor persona que he conocido y me ha ayudado a crecer como persona."},
+  {skill: "Minecraft", image: "https://i.imgur.com/4QZK9ZC.jpg", disc: "Ella es la mejor persona que he conocido y me ha ayudado a crecer como persona."},
+] as const;
